@@ -1,2 +1,2 @@
 # Python_Masterclass_Udemy_Complete
-Part - 1 / Complete solutions to All challenges and Source Code of Python Masterclass Course 
+Part - 1 , Generators, Comprehensions, Lambda up to module and functions
